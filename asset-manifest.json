@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.a4325a5f.css",
-    "main.js": "/static/js/main.d0a3d2b1.js",
+    "main.css": "/static/css/main.3b73c40e.css",
+    "main.js": "/static/js/main.3a9da179.js",
     "static/media/peinture-romaine.jpg": "/static/media/peinture-romaine.0732c037c45505501253.jpg",
     "static/media/migrabold.otf": "/static/media/migrabold.0d38ccf2dc0c9c119102.otf",
     "static/media/TuskerGrotesk-2600Semibold.ttf": "/static/media/TuskerGrotesk-2600Semibold.3a484f7fa71f68b7e7a8.ttf",
     "index.html": "/index.html",
-    "main.a4325a5f.css.map": "/static/css/main.a4325a5f.css.map",
-    "main.d0a3d2b1.js.map": "/static/js/main.d0a3d2b1.js.map"
+    "main.3b73c40e.css.map": "/static/css/main.3b73c40e.css.map",
+    "main.3a9da179.js.map": "/static/js/main.3a9da179.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4325a5f.css",
-    "static/js/main.d0a3d2b1.js"
+    "static/css/main.3b73c40e.css",
+    "static/js/main.3a9da179.js"
   ]
 }
